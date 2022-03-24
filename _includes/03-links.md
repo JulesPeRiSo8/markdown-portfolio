@@ -1,1 +1,1 @@
-[Jules's GitHub profil](https://github.com/JulesPeRiSo8)
+[Jules's GitHub profile](https://github.com/JulesPeRiSo8)
