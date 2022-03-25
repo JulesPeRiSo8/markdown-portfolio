@@ -1,1 +1,1 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+I am _writing_ to try the __emphasis system__ and *this* is pretty **cool!**
